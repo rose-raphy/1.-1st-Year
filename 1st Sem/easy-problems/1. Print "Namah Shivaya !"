@@ -1,1 +1,6 @@
-#To Print "Namah Shivaya !"
+```python
+#1. Print "Namah Shivaya !"
+print("Namah Shivaya !")
+```
+
+    Namah Shivaya !
