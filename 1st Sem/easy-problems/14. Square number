@@ -1,0 +1,15 @@
+```python
+#14. Calculate the square of a number
+
+# Ask a number to be squared from user
+number = int(input("Enter a number"))
+
+# Initiate a variable to contain the squared number
+squared = number**2
+
+# Print the squared number
+print("The square of",number, "is:", squared)
+```
+
+OUTPUT :Enter a number 5
+        The square of 5 is: 25
