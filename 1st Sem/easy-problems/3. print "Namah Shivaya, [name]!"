@@ -1,0 +1,11 @@
+```python
+#3. Take a name as input and print "Namah Shivaya, [name]!"
+name=input("Enter a name:")
+print("Namah Shivaya,",name,"!")
+```
+
+    Enter a name: Amrita
+    
+
+    Namah Shivaya, Amrita !
+    
