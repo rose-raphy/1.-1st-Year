@@ -7,7 +7,6 @@ breadth=int(input("Enter breadth of the rectangle:"))
 print("The area of the rectangle is",length*breadth)
 ```
 
-    Enter length of the rectangle: 7
-    Enter breadth of the rectangle: 3
-    
-OUTPUT: The area of the rectangle is 21
+OTPUT :Enter length of the rectangle: 7
+       Enter breadth of the rectangle: 3
+       The area of the rectangle is 21
