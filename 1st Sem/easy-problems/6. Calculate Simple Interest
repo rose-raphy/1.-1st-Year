@@ -1,0 +1,18 @@
+```python
+#6 Calculate Simple Interest
+Principal_amount=int(input("Enter Principal Amount:"))
+Rate_of_Interest=float(input("Enter Annual Interest Rate:"))
+Time_in_Years=int(input("Enter Time(in years):"))
+
+#Initiate Simple Interest Formula
+Simple_Interest= (Principal_amount*Rate_of_Interest*Time_in_Years)/100
+
+#print Simple Interest
+print("Simple Interest:",Simple_Interest)
+```
+
+OUTPUT :Enter Principal Amount: 39800
+        Enter Annual Interest Rate: 2.4
+        Enter Time(in years): 4
+        
+        Simple Interest: 3820.8
