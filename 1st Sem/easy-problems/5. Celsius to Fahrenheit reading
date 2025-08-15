@@ -1,0 +1,13 @@
+```python
+#5. Convert Celsius to Fahrenheit
+Celsius_degree= int(input("Enter temperature in Celsius (in degree):"))
+
+#Initiate Formula to find Fahrenheit reading from Celsius reading
+Fahrenheit_degree= (Celsius_degree * (9/5)) + 32
+
+#prints Temperature in Fahrenheit reading
+print("Temperature in Fahrenheit(in degree):",Fahrenheit_degree)
+```
+
+OUTPUT :Enter temperature in Celsius (in degree): 34
+        Temperature in Fahrenheit(in degree): 93.2
