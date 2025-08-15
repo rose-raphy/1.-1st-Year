@@ -1,0 +1,12 @@
+```python
+#2. Take two numbers as input and print their sum
+number1=int(input("Enter 1st number to add"))
+number2=int(input("Enter 2nd number to add"))
+print(number1 + number2) # prints sum of 1st number and 2nd number from user
+```
+
+    Enter 1st number to add 3
+    Enter 2nd number to add 5
+    
+
+    8
