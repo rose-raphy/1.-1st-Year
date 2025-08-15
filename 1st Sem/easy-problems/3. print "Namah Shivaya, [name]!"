@@ -4,7 +4,5 @@ name=input("Enter a name:")
 print("Namah Shivaya,",name,"!")
 ```
 
-    Enter a name: Amrita
-    
-
-OUTPUT :Namah Shivaya, Amrita !   
+OUTPUT :Enter a name: Amrita
+        Namah Shivaya, Amrita !   
