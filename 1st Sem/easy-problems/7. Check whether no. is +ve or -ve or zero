@@ -1,0 +1,26 @@
+```python
+#7 Check if a number is positive, negative or zero
+#To enter no. of test cases
+Test_case=int(input("Enter Test Cases:"))
+
+#Code to check whether the number is positive, negative or zero
+for i in range(Test_case):
+    number=float(input("Enter a number"))
+    if number>0:
+        print("Positive number")
+    elif number==0:
+        print("The number is zero")
+    else:
+        print("Negative number")
+```
+
+OUTPUT:Enter Test Cases: 3
+       
+       Enter a number 2
+       Positive number
+       
+       Enter a number -3
+       Negative number
+       
+       Enter a number 0
+       The number is zero
