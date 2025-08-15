@@ -1,0 +1,13 @@
+```python
+#4. Calculate the area of a rectangle (given length and width)
+length=int(input("Enter length of the rectangle:"))
+breadth=int(input("Enter breadth of the rectangle:"))
+
+#to print area of rectangle
+print("The area of the rectangle is",length*breadth)
+```
+
+    Enter length of the rectangle: 7
+    Enter breadth of the rectangle: 3
+    
+OUTPUT: The area of the rectangle is 21
