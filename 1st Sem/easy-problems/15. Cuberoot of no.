@@ -1,0 +1,15 @@
+```python
+#15 Calculate the cube of a number
+
+# Ask a number to be cube rooted from user
+number = int(input("Enter a number"))
+
+# Initiate a variable to contain the cube rooted number
+cube_root = number**3
+
+# Print the cube rooted number
+print("The cube of",number, "is:", cube_root)
+```
+
+OUTPUT :Enter a number 5
+        The cube of 5 is: 125
