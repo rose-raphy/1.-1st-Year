@@ -9,5 +9,6 @@ Fahrenheit_degree= (Celsius_degree * (9/5)) + 32
 print("Temperature in Fahrenheit(in degree):",Fahrenheit_degree)
 ```
 
+
 OUTPUT :Enter temperature in Celsius (in degree): 34
         Temperature in Fahrenheit(in degree): 93.2
