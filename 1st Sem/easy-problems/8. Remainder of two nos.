@@ -1,0 +1,14 @@
+```python
+#8 Find the remainder when one number is divided by another
+
+# Initiate numbers to variables to find the remainder when divided
+number1=int(input("Enter 1st number:"))
+number2=int(input("Enter 2nd number:"))
+
+# To print Remainder of the two numbers 
+print("Remainder when", number1, "is divided by", number2, "is", number1%number2)
+```
+
+OUTPUT :Enter 1st number: 3
+        Enter 2nd number: 2
+        Remainder when 3 is divided by 2 is 1
