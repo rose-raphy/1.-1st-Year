@@ -1,0 +1,26 @@
+```python
+#9 Swap two variables
+
+#Initiate two variables with values to swap
+number1 = int(input("Enter 1st number:"))
+number2 = int(input("Enter 2nd number:"))
+
+# Prints values before swapping
+print("Before swapping -> 1st number:",number1,", 2nd number:",number2)
+
+#Initiate a variable for swapping
+swap_variable = number1
+
+#With the help of the swap variable, swap number1 and number2 accordingly
+number1 = number2
+number2 = swap_variable
+
+# Prints values after swapping
+print("After swapping -> 1st number",number1,", 2nd number:",number2)
+```
+
+OUTPUT :Enter 1st number: 4
+        Enter 2nd number: 8
+        
+        Before swapping -> 1st number: 4 , 2nd number: 8
+        After swapping -> 1st number 8 , 2nd number: 4
