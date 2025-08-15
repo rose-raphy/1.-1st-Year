@@ -1,0 +1,22 @@
+```python
+#10 Check if a number is even or odd
+
+# Enter no. of Test cases required
+Test_case=int(input("Enter a Test Cases:"))
+
+# Code for checking if the number given by user is odd or even 
+for i in range(Test_case):
+    number=int(input("Enter a number"))
+    if number%2==0:
+        print("Even number")
+    else:
+        print("Odd number")
+```
+
+OUTPUT :Enter a Test Cases: 2
+        
+        Enter a number 2
+        Even number
+        
+        Enter a number 3
+        Odd number
