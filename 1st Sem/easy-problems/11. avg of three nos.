@@ -1,0 +1,19 @@
+```python
+#11. Calculate the avg of three numbers
+
+# Initiate 3 varibles with values from user
+number1 = int(input("Enter 1st number:"))
+number2 = int(input("Enter 2nd number:"))
+number3 = int(input("Enter 3rd number:"))
+
+# Calculate average of three numbers from user
+average = (number1 * number2 * number3)/3
+
+# Print the average of three numbers
+print("The average of the three numbers is",average)
+```
+
+OUTPUT :Enter 1st number: 56
+        Enter 2nd number: 44
+        Enter 3rd number: 24
+        The average of the three numbers is 19712.0
