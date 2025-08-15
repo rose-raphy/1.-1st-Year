@@ -9,4 +9,4 @@ print(number1 + number2) # prints sum of 1st number and 2nd number from user
     Enter 2nd number to add 5
     
 
-    8
+OUTPUT :8
